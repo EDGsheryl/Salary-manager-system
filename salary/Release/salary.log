@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  insert.cpp
+  PeoeleUpdate.cpp
+  PeopleDelete.cpp
+  salary.cpp
+  salaryDlg.cpp
+  正在生成代码
+  All 565 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  salary.vcxproj -> D:\temp\cpptest\salary\Release\salary.exe
